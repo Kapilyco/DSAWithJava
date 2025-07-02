@@ -12,7 +12,6 @@ public class Table {
             System.out.println(number+"*"+i+"="+number*i); 
 
         }
-        
     }
     
 }
